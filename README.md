@@ -1,4 +1,4 @@
-# cicd-project
+# Circle-Ci
 
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ios/tree/master.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ios/tree/master)
 
